@@ -1,2 +1,2 @@
 # testzip
-test
+JDBC TEST
